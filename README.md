@@ -1,5 +1,5 @@
 # node-server
 
-Thomas tu fait git clone
+git clone
 Puis npm i
 Puis npm start
